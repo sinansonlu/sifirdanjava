@@ -1,0 +1,3 @@
+interface Tirnakli {
+    void tirmala();
+}

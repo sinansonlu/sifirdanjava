@@ -1,0 +1,3 @@
+interface Kurklu {
+    void isit();
+}
